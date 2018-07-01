@@ -4,5 +4,6 @@ let hi = function sayHi(name){
 };
 
   hi('deni');
+  console.log('comes from by branch01');
 //test
 let t = 2;
