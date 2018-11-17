@@ -10,3 +10,5 @@ adding changes before "promeni vurhu mastera" rebasing
 predposleden tut change
 hgj oshte
 ne e indeksirana
+
+promiana zarad rebase
