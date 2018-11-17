@@ -8,3 +8,5 @@ adding changes before "promeni vurhu mastera" rebasing
 "promiana izvursjena v samia github"
 
 predposleden tut change
+hgj oshte
+ne e indeksirana
