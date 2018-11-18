@@ -12,5 +12,6 @@ hgj oshte
 ne e indeksirana
 
 test dali shte go vzeme s rebase
+lets create confl 111
 tva triabva da suzdade konflikt
 promiana zarad rebase
