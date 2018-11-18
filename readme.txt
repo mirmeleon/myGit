@@ -11,4 +11,4 @@ predposleden tut change
 hgj oshte
 ne e indeksirana
 
-promiana zarad rebase
+test dali shte go vzeme s rebase
