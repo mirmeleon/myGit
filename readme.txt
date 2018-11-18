@@ -12,3 +12,5 @@ hgj oshte
 ne e indeksirana
 
 test dali shte go vzeme s rebase
+tva triabva da suzdade konflikt
+promiana zarad rebase
